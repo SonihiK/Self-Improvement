@@ -1,4 +1,4 @@
-# Markdown 사용법 by ChatGpt (for me)
+# Markdown 사용법 by ChatGpt 
 - Markdown은 간단한 문법을 사용해 텍스트를 서식화할 수 있는 경량 마크업 언어임. 
 - 주로 문서 작성, 블로그 포스트, README 파일, 기술 문서 작성 등에 사용됨. 
 
